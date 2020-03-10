@@ -1,4 +1,4 @@
-Analysis of purchasing data from online game Heroes of Pymoli. Utiulizing Panda's dataframes to learn Total Number of Players
+Analysis of purchasing data from online game Heroes of Pymoli. Utilizing  Panda's dataframes we learn the total number of players along with the percentage and count 
 
 
 Purchasing Analysis (Total)
