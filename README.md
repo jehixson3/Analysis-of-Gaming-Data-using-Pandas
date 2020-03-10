@@ -1,22 +1,5 @@
-Analysis of purchasing data from online game Heroes of Pymoli. Utilizing  Panda's dataframes we learn the total number of players along with the percentage and count 
+Analysis of purchasing data from online game Heroes of Pymoli. Utilizing Panda's dataframes we learn the total number of players along with the count and percentage of players based on gender including non-diclosed/other.  The purchasing analysis included the number of unique items, average purchase price, as well as the total number of purchases and revenue.
 
-
-Purchasing Analysis (Total)
-
-Number of Unique Items
-Average Purchase Price
-Total Number of Purchases
-Total Revenue
-
-
-Gender Demographics
-
-Percentage and Count of Male Players
-Percentage and Count of Female Players
-Percentage and Count of Other / Non-Disclosed
-
-
-Purchasing Analysis (Gender)
 
 The below each broken by gender
 
